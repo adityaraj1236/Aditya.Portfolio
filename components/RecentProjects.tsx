@@ -1,6 +1,7 @@
 import { projects } from '@/data/index'
 import React from 'react'
 import { PinContainer } from './ui/3d-pin'
+import Image from 'next/image'
 
 const RecentProjects = () => {
   return (
@@ -19,7 +20,7 @@ const RecentProjects = () => {
                             <div className='relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]'>
                                 <img src='/bg.png' alt='bg-img'/>
                             </div>
-                            <img
+                            <Image
                             src={img}
                             alt={title}
                             className='z-10 absolute bottom-0'/>

@@ -30,7 +30,7 @@ const Hero = () => {
         />
 
         <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg , lg:text-2xl'>
-            Hi I'am Aditya Raj Based in New Delhi
+            Hi I  am Aditya Raj Based in New Delhi
         </p>
         <a href='#about'>
             <Button title='Show my Work'

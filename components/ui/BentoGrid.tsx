@@ -5,6 +5,7 @@ import { GlobeDemo } from "@/components/ui/GridGlobe";
 import { useState } from "react";
 import Lottie from "react-lottie";
 import animationData from  '@/data/confetti.json'
+import Image from "next/image";
 
 export const BentoGrid = ({
   className,
@@ -75,7 +76,7 @@ backgroundColor: 'linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(59,59,68,0.01) 
     <div className={`${id === 6 && "flex justify-center"} h-full`}>
         <div className="w-full h-full absolute">
 {img && (
-    <img
+    <Image
     src={img}
     alt={img}
     className={cn(imgClassName, 'object-cover ,object-center')}
@@ -86,7 +87,7 @@ backgroundColor: 'linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(59,59,68,0.01) 
 
         <div className={`absolute right-0 -bottom-5 ${id===5 && 'w-full opacity-80'}`}>
                 {spareImg && (
-                    <img 
+                    <Image
                     src={spareImg}
                     alt={spareImg}
                     className={'object-cover , object-center w-full h-full'}
