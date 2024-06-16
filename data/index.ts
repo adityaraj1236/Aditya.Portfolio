@@ -74,11 +74,11 @@ export const gridItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "HomieGo",
+      des: "A premium rental home discovery and booking platform designed for a seamless user experience. Homiego connects users with high-quality rental properties through a user-friendly interface, ensuring a comfortable and hassle-free living experience. Explore curated listings and find the perfect home with Homiego.",
+      img: "/HomieGo (Document (A4)) (6).png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      link: "https://www.homiego.in/",
     },
     {
       id: 2,
