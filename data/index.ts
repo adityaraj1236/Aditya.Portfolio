@@ -97,6 +97,14 @@ export const gridItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://testimonialzz.netlify.app/",
     },
+    {
+      id: 4,
+      title: " A Tech Blog App",
+      des: " A dynamic blogging platform where users can read and share tech articles. This project leverages the Context API to manage global state, ensuring seamless data sharing across components and enhancing the user experience.",
+      img: "/testimonial.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "https://testimonialzz.netlify.app/",
+    },
   ];
   
   export const testimonials = [
