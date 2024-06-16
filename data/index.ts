@@ -88,16 +88,9 @@ export const gridItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "/ui.yoom.com",
     },
+   
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
-    },
-    {
-      id: 4,
       title: " Testimonial mini project",
       des: "A mini project designed to collect, manage, and display user testimonials. This platform allows users to share their experiences and feedback, providing valuable insights and social proof to enhance credibility and trust.",
       img: "/testimonial.png",
