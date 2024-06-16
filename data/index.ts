@@ -98,11 +98,11 @@ export const gridItems = [
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      title: " Testimonial mini project",
+      des: "A mini project designed to collect, manage, and display user testimonials. This platform allows users to share their experiences and feedback, providing valuable insights and social proof to enhance credibility and trust.",
+      img: "/testimonial.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "/ui.apple.com",
+      link: "https://testimonialzz.netlify.app/",
     },
   ];
   
