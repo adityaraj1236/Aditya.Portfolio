@@ -82,8 +82,8 @@ export const gridItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "LearnHive",
+      des: "An innovative edtech platform that leverages machine learning models to monitor and analyze student progress. LearnHIve provides personalized insights and recommendations, helping students achieve their learning goals efficiently and effective",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "/ui.yoom.com",
